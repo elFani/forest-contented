@@ -1,6 +1,8 @@
 ---
 date: 2022-01-13T01:19:47
-tags: []
+tags:
+- general
+- topics
 title: First post by el Fani
 
 ---
