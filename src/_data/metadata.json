@@ -1,11 +1,11 @@
 {
-  "title": "Contented CMS",
+  "title": "Forest Blog",
   "url": "https://cms.contentedweb.com/",
   "language": "en",
-  "description": "An eleventy based basic blogging site with Forestry and GitHub Pages baked in",
-  "startYear": 2021,
+  "description": "An eleventy based basic blogging site with Forestry deployed via Netlify",
+  "startYear": 2022,
   "relme": "https://github.com/contentedweb",
-  "theme": "olden",
+  "theme": "sky",
   "feed": {
     "subtitle": "An eleventy based basic blogging site with Forestry and GitHub Pages baked in",
     "filename": "index.xml",
