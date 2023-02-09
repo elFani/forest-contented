@@ -31,9 +31,8 @@
 		<content type="html">&lt;h1&gt;The first heading&lt;/h1&gt;
 &lt;p&gt;The body of the post&lt;/p&gt;
 &lt;p&gt;a few extra lines...&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;hello&amp;gt;&amp;lt;/hello&amp;gt;
-&amp;lt;codeblock&amp;gt;&amp;lt;/codeblock&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;hello&gt;&lt;/hello&gt;&lt;br /&gt;
+&lt;codeblock&gt;&lt;/codeblock&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
